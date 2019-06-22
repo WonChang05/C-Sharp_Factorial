@@ -1,0 +1,7 @@
+D:\Users\Won\Desktop\作品彙整\factorial\factorial\bin\Debug\factorial.exe.config
+D:\Users\Won\Desktop\作品彙整\factorial\factorial\bin\Debug\factorial.exe
+D:\Users\Won\Desktop\作品彙整\factorial\factorial\bin\Debug\factorial.pdb
+D:\Users\Won\Desktop\作品彙整\factorial\factorial\obj\Debug\factorial.csprojAssemblyReference.cache
+D:\Users\Won\Desktop\作品彙整\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+D:\Users\Won\Desktop\作品彙整\factorial\factorial\obj\Debug\factorial.exe
+D:\Users\Won\Desktop\作品彙整\factorial\factorial\obj\Debug\factorial.pdb
